@@ -1,1 +1,2 @@
-# .github
+CubedMC
+Work in progress...
